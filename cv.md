@@ -1,3 +1,4 @@
 Text file at RSschool. Text at gh-pages eding at github.
 Editing file at github
 Eding at github at gh-pages after fetch before git pull
+Renamed readme to cv.md at PC/gh-pages
